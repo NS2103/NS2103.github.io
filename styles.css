@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -10,8 +10,8 @@ body {
 }
 
 header {
-    background-color: #0077b6;
-    color: #fff;
+    background-color: rgb(240, 208, 159);
+    color:rgb(52, 64, 32);
     padding: 20px 0;
     text-align: center;
     position: relative;
@@ -50,12 +50,12 @@ nav ul li a:hover {
 
 .hero {
     padding: 100px 20px;
-    background-color: #023e8a;
-    color: #fff;
+    background-color:burlywood;
+    color:darkolivegreen
 }
 
 .hero h1 {
-    font-size: 3em;
+    font-size: 6em;
     margin: 0;
 }
 
@@ -68,10 +68,10 @@ nav ul li a:hover {
     width: 90%;
     max-width: 1200px;
     margin: 40px auto;
-    background-color: #fff;
+    background-color:rgb(220, 237, 191);
     padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(204, 219, 177);
 }
 
 h2 {
